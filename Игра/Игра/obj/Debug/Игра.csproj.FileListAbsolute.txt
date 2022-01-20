@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Игра\Игра\bin\Debug\Игра.exe.config
+C:\Users\User\source\repos\Игра\Игра\bin\Debug\Игра.exe
+C:\Users\User\source\repos\Игра\Игра\bin\Debug\Игра.pdb
+C:\Users\User\source\repos\Игра\Игра\obj\Debug\Игра.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Игра\Игра\obj\Debug\Игра.Form1.resources
+C:\Users\User\source\repos\Игра\Игра\obj\Debug\Игра.Properties.Resources.resources
+C:\Users\User\source\repos\Игра\Игра\obj\Debug\Игра.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Игра\Игра\obj\Debug\Игра.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Игра\Игра\obj\Debug\Игра.exe
+C:\Users\User\source\repos\Игра\Игра\obj\Debug\Игра.pdb
+C:\Users\User\source\repos\Игра\Игра\obj\Debug\Игра.Form2.resources
+C:\Users\User\source\repos\Игра\Игра\obj\Debug\Игра.Form3.resources
+C:\Users\User\source\repos\Игра\Игра\obj\Debug\Игра.Form4.resources
+C:\Users\User\source\repos\Игра\Игра\obj\Debug\Игра.Form5.resources
+C:\Users\User\source\repos\Игра\Игра\obj\Debug\Игра.Form6.resources
+C:\Users\User\source\repos\Игра\Игра\obj\Debug\Игра.Form7.resources
